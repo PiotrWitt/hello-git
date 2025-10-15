@@ -1,0 +1,6 @@
+
+    Checkout a new branch named bugFix
+    Commit once
+    Go back to main and commit again
+    Check out bugFix again and rebase onto main
+
